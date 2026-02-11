@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Secrets - never commit tokens or credentials
+sniffcat.conf
+*.conf
+
+# Logs
+*.log
